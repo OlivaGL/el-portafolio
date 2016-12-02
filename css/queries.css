@@ -1,0 +1,72 @@
+/*large desktop - Pantallas grandes - computadoras de escritorio*/
+@media(min-width: 1200px){
+
+}
+
+/*medium desktop - Escritorio medio - Tablet posición horizontal*/
+@media (max-width: 1199px) and (min-width: 992px){
+
+}
+
+/*Tablets - Tablet posición vertical*/
+@media(max-width: 991px) and (min-width: 768px){
+	.semblanza{
+		font-size: 1.9rem;
+	}
+}
+/*Phones*/
+@media(max-width: 767px){
+	h1{
+		font-size: 4.3rem !important;
+		font-weight: bold;
+		margin: 0 !important;
+		text-align: center;
+	}
+	h2{
+		font-size: 3.3rem;
+		margin-bottom: 3rem;
+	}
+	h3{
+		font-size: 3.5rem !important;
+		margin: 0 !important;
+		text-align: center;
+	}
+	h4{
+		font-size: 2rem;
+		margin-bottom: 1.8rem;
+	}
+	.semblanza{
+		font-size: 1.7rem;
+		text-align: center;
+		line-height: 2rem;
+	}
+	.imgperfil{
+		width: 50% !important;
+		height: 50% !important;
+		margin: 0 auto;
+	}
+	.cajaimg{
+		width: 80%;
+		height: 80%;
+		display: center-block;
+		margin-bottom: 2em;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.datos{
+		font-size: 1rem;
+	}
+	.imgproyec{
+		width: auto;
+		height: auto;
+	}
+	footer{
+		font-size: 1.25rem;
+	}i
+	.pdtop6{
+		padding-top: 2em;
+	}
+	.mtop3, .proyectos{
+		margin-top: 1.5em;
+	}
+}
