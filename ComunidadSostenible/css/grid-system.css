@@ -39,6 +39,7 @@
 }
 
 .row:after {
+  content: " ";
   clear: both;
 }
 
