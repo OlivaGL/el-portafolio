@@ -1,0 +1,46 @@
+/*css de inicio*/
+h1{
+	font-family: 'Architects Daughter', cursive;
+	font-size: 4em;
+}
+a{
+	text-decoration: none;
+}
+.container{
+	text-align: center;
+	
+}
+#logo{
+	width: 40%;
+	height: auto;
+}
+#nara{
+	background: red #FF8000;
+	opacity: 0.5;
+}	
+#ama{
+	background: yellow;
+}
+#azu{
+	background: #2E9AFE;
+}
+.white{
+	color: white;
+}
+.back{
+	border-radius: 32%;
+	border: white solid 3px;	
+}
+.opacidad{
+	background: black;
+	opacity: 0.5;
+	border-radius: 20%;
+	padding: 15%;
+}
+body{
+	background-image: url(../img/fondo2.jpg);
+	background-size: 100% 100%;
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+	
+}

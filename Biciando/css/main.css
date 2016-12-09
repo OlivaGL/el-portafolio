@@ -1,0 +1,52 @@
+/*Inici css*/
+*{
+	font-family: 'Architects Daughter';
+	font-size: 22px;
+}
+a{
+	text-decoration: none;
+}
+.linea{
+	display: inline;
+}
+.CAzul{
+	background-color: #20B2AA;
+}
+.LetraWhite{
+	color: white;
+}
+body{
+	background-image: url(../img/biciandoo.jpg);
+	background-size: 100% 100%;
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+}
+.tama{
+	width: 15%;
+}
+.input{
+	width: 100%;
+}
+.mg-top28{
+	margin-top: -16%;
+}
+.mg-form{
+	margin-top: 2%;
+}
+.mg-top{
+	margin-top: 33%;
+}
+.mg-bottom{
+	margin-bottom: 5%;
+}
+.mediano{
+	height: 5%;
+	width: 5%;
+}
+.opacity{
+	background: black;
+	opacity: 0.8;
+	border-radius: 20%;
+	padding: 10%;
+	margin-top: 3%;
+}
